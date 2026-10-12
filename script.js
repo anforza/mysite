@@ -6,8 +6,8 @@
 (function () {
   "use strict";
 
-  const MESSAGE = "Men sizni juda juda sevaman!";
-  const HEART_TEXT = "Sizni sevaman ❤️";
+  const MESSAGE = "Asalim hali hammasi zo'r bo'ladi, birgalikda hammasini eplimiz. Men seni juda sevaman!";
+  const HEART_TEXT = "Seni sevaman ❤️";
   const FLOATING_HEART_COUNT = 42;
   const PETAL_INTERVAL = 380;
   const MOUSE_THROTTLE = 45;
