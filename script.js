@@ -8,15 +8,15 @@
 
   const MESSAGE = `Asalim hali hammasi zo'r bo'ladi, birgalikda hammasini eplimiz. Men seni juda sevaman! Sen uchun she'r yozdim:
 
-Jajjiginam mening, ko’zim quvonchi
+Jajjiginam mening, ko'zim quvonchi,
 Sevgimni sen uchun har kun aytaman.
-So’nmasin qalbingni menga ishonchi
-Aylanib o’rgilib senga qaytaman.
+So'nmasin qalbingni menga ishonchi,
+Aylanib o'rgilib senga qaytaman.
 
-Asalim o’pichim peshonangga qo’y
-Har hil hayollarda joning qiynama
-Ishon hali birga qilamiz biz to’y
-Sevgilim kulib yur aslo yig’lama.`;
+Asalim o'pichim peshonangga qo'y,
+Har hil hayollarda joning qiynama.
+Ishon hali birga qilamiz biz to'y,
+Sevgilim kulib yur aslo yig'lama.`;
   const HEART_TEXT = "Seni sevaman ❤️";
   const FLOATING_HEART_COUNT = 42;
   const PETAL_INTERVAL = 380;
