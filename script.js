@@ -1,5 +1,5 @@
 /**
- * Charos — Premium Romantic Greeting
+ * Jasmina — Premium Romantic Greeting
  * HTML, CSS, JavaScript + GSAP
  */
 
